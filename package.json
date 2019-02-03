@@ -1,10 +1,9 @@
 {
   "name": "pub-pkg-bootstrap-min",
-  "version": "3.3.4",
-  "description": "pub-server package to inject Bootstrap without Glyphicons",
+  "version": "4.2.1",
+  "description": "pub-server package to inject Bootstrap v4.2.1",
   "main": "pub-config.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "keywords": [
     "publish",
     "bootstrap"
