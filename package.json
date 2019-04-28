@@ -1,6 +1,6 @@
 {
   "name": "pub-pkg-bootstrap-min",
-  "version": "4.2.1.0",
+  "version": "4.2.1",
   "description": "pub-server package to inject Bootstrap v4.2.1",
   "main": "pub-config.js",
   "dependencies": {},
