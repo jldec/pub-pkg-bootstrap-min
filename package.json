@@ -1,6 +1,6 @@
 {
   "name": "pub-pkg-bootstrap-min",
-  "version": "4.2.1",
+  "version": "4.3.0",
   "description": "pub-server package to inject Bootstrap v4.2.1",
   "main": "pub-config.js",
   "dependencies": {},
@@ -17,6 +17,6 @@
     "type": "git",
     "url": "git://github.com/jldec/pub-pkg-bootstrap-min.git"
   },
-  "author": "jurgen leschner",
+  "author": "Jürgen Leschner",
   "license": "MIT"
 }
