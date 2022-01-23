@@ -1,5 +1,7 @@
 # pub-pkg-bootstrap-min
 
+_This package is no longer being mainained._
+
 pub-server package for injecting [Bootstrap](https://getbootstrap.com/) v4.2.1
 
 This minimal package includes bundled [Bootstrap](https://getbootstrap.com/docs/4.2/getting-started/introduction/) javascript and css components. It does not come with prebuilt HTML templates or themes.
